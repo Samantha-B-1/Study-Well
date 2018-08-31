@@ -3,7 +3,9 @@
 }
 
 h1{
-  color: darkblue
+  color: red;
+  font-family: sans-serif;
+  text-align: left;
 }
 #icon{
   width: 200px;
@@ -12,9 +14,6 @@ h1{
 body{
   background-image: linear-gradient(to bottom, #f43f5d, lightblue);
   padding: 10px;
-}
-h1{
-  text-align: left;
 }
 #aboutTitle{
   color: #f43f5d;
