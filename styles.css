@@ -2,10 +2,12 @@
   background-color: lightBlue
 }
 
-h1{
-  color: red;
+h1_myfont{
+  color: darkblue;
   font-family: sans-serif;
+  font-size: 100px;
   text-align: left;
+
 }
 #icon{
   width: 200px;
