@@ -12,3 +12,6 @@ body{
   background-image: linear-gradient(to bottom, red, blue);
   padding: 10px;
 }
+h4{
+  text-align: right;
+}
