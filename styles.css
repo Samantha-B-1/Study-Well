@@ -19,12 +19,12 @@ body{
   background-image: linear-gradient(to bottom, #f43f5d, lightblue);
   padding: 10px;
 }
-h4{
-  text-align: right;
+h1{
+  text-align: left;
 }
 
-h3{
-  text-align: right;
+h1{
+  text-align: lefts;
 }
 #aboutTitle{
   color: #f43f5d;
