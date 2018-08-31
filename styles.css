@@ -1,16 +1,15 @@
 .navbar{
   background-color: lightBlue
 }
-<<<<<<< HEAD
+
 h4{
   color: red
 }
 h3{
   color: blue
-=======
+}
 p{
   color: #f43f5d;
->>>>>>> 4dfdc676c6fd94d7cff170a81d8ab403dc84017d
 }
 #icon{
   width: 200px;
@@ -23,12 +22,11 @@ body{
 h4{
   text-align: right;
 }
-<<<<<<< HEAD
+
 h3{
   text-align: right;
-=======
+}
 #aboutTitle{
   color: #f43f5d;
   font-family: cursive;
->>>>>>> 4dfdc676c6fd94d7cff170a81d8ab403dc84017d
 }
