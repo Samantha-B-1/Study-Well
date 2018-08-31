@@ -3,10 +3,12 @@
 }
 
 h4{
-  color: red
+  color: red;
+  text-align: right;
 }
 h3{
-  color: blue
+  color: blue;
+  text-align: right;
 }
 p{
   color: #f43f5d;
@@ -19,14 +21,14 @@ body{
   background-image: linear-gradient(to bottom, #f43f5d, lightblue);
   padding: 10px;
 }
-h4{
-  text-align: right;
-}
 
-h3{
-  text-align: right;
-}
 #aboutTitle{
   color: #f43f5d;
   font-family: cursive;
+}
+
+.table, th, td {
+  border: red;
+  padding: 8px;
+  border-collapse: collapse;
 }
