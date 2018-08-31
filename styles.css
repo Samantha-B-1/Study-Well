@@ -17,9 +17,9 @@ body{
   background-image: linear-gradient(to bottom, #f43f5d, lightblue);
   padding: 10px;
 }
-#aboutTitle{
-  color: #f43f5d;
-  font-family: cursive;
+#about{
+  font-size: 25px;
+  font-family: sans-serif;
 }
 .carousel-img{
   height: 200px;
@@ -28,7 +28,6 @@ body{
   margin-left: auto;
   margin-right: auto;
   }
-<<<<<<< HEAD
 
 footer{
   position: fixed;
@@ -39,5 +38,3 @@ footer{
   bottom: 0;
   width: 100%;
 }
-=======
->>>>>>> 2a2f5b7cfb15fcc6a4b5f0f90157c077aff0d32b
