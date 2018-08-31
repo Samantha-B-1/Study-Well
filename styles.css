@@ -1,8 +1,11 @@
 .navbar{
   background-color: lightBlue
 }
-p{
-  color: green
+h4{
+  color: red
+}
+h3{
+  color: blue
 }
 #icon{
   width: 200px;
@@ -13,5 +16,8 @@ body{
   padding: 10px;
 }
 h4{
+  text-align: right;
+}
+h3{
   text-align: right;
 }
