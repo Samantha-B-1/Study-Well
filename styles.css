@@ -2,16 +2,8 @@
   background-color: lightBlue
 }
 
-h4{
-  color: red;
-  text-align: right;
-}
-h3{
-  color: blue;
-  text-align: right;
-}
-p{
-  color: #f43f5d;
+h1{
+  color: darkblue
 }
 #icon{
   width: 200px;
@@ -21,24 +13,10 @@ body{
   background-image: linear-gradient(to bottom, #f43f5d, lightblue);
   padding: 10px;
 }
-<<<<<<< HEAD
 h1{
   text-align: left;
 }
-
-h1{
-  text-align: lefts;
-}
-=======
-
->>>>>>> 39ce5dae75b857e192d170523f580fa328d036e7
 #aboutTitle{
   color: #f43f5d;
   font-family: cursive;
-}
-
-.table, th, td {
-  border: red;
-  padding: 8px;
-  border-collapse: collapse;
 }
