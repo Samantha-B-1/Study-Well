@@ -23,12 +23,12 @@ body{
 }
 .carousel-img{
   height: 200px;
-<<<<<<< HEAD
   width: 30%;
   display: block;
   margin-left: auto;
   margin-right: auto;
   }
+<<<<<<< HEAD
 
 footer{
   position: fixed;
@@ -39,3 +39,5 @@ footer{
   bottom: 0;
   width: 100%;
 }
+=======
+>>>>>>> 2a2f5b7cfb15fcc6a4b5f0f90157c077aff0d32b
