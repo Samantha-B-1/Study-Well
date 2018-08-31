@@ -9,6 +9,9 @@ p{
   height: 200px;
 }
 body{
-  background-image: linear-gradient(to bottom, red, blue);
+  background-image: linear-gradient(to bottom, #f43f5d, lightblue);
   padding: 10px;
+}
+h4{
+  text-align: right;
 }
