@@ -21,3 +21,7 @@ body{
   color: #f43f5d;
   font-family: cursive;
 }
+.carousel-img{
+  height: 200px;
+    width: 30%;
+}
